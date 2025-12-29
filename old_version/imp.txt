@@ -1,0 +1,28 @@
+go to terminal and type given commands 
+
+npm init -y
+
+npm install express socket.io
+
+node server.js
+
+node c:\Users\aksha\OneDrive\Desktop\whats\server.js
+
+
+
+|---------------------------------------------------------------------------------|
+|step 1 - if you want a hosted link in few min                                    | 
+|step 2 - copy the port no like 3000                                              | 
+|step 3 - go to terminal / port                                                   |
+|step 4 - click to the forward a port                                             |
+|step 5 - add the port on - 3000                                                  |
+|step 6 - wait                                                                    |
+|step 7 - you have a blue link                                                    |
+|step 8 - right click on it                                                       |
+|step 9 - go the - Port Visibility                                                |
+|step 10 - Port Visibility - public                                               |
+|step 11 - now click to first btn near the link , go to chrome and paste the link | 
+|---------------------------------------------------------------------------------|
+
+
+
